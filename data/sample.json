@@ -1,0 +1,20 @@
+[
+  {
+    "id": "g1",
+    "question": "What is MFA?",
+    "reference": "Multifactor authentication requires two or more verification factors.",
+    "answer": "Multifactor authentication requires two verification factors."
+  },
+  {
+    "id": "g2",
+    "question": "What is a VPN?",
+    "reference": "A VPN creates an encrypted connection between a device and a network.",
+    "answer": "A VPN makes internet faster."
+  },
+  {
+    "id": "g3",
+    "question": "How to protect PII?",
+    "reference": "Mask sensitive personal information before sharing with external services.",
+    "answer": "Mask sensitive personal information before sharing with external services."
+  }
+]
